@@ -1,0 +1,6 @@
+C:\Users\P10480567\source\repos\SpiderLogic\SpiderLogic\bin\Debug\SpiderLogic.exe.config
+C:\Users\P10480567\source\repos\SpiderLogic\SpiderLogic\bin\Debug\SpiderLogic.exe
+C:\Users\P10480567\source\repos\SpiderLogic\SpiderLogic\bin\Debug\SpiderLogic.pdb
+C:\Users\P10480567\source\repos\SpiderLogic\SpiderLogic\obj\Debug\SpiderLogic.csprojAssemblyReference.cache
+C:\Users\P10480567\source\repos\SpiderLogic\SpiderLogic\obj\Debug\SpiderLogic.exe
+C:\Users\P10480567\source\repos\SpiderLogic\SpiderLogic\obj\Debug\SpiderLogic.pdb
